@@ -20,5 +20,16 @@
         "site": "https://www.hrad-karlstejn.cz/ru",
         "placeImage": "karlstejn.jpg",
         "placeIcon": "karlstejn_icon.jpg"
+    },
+    {
+        "id": "3",
+        "placeName": "Замок Карлштейн (Karlštejn) 3",
+        "placeShortDescription": "Старинный замок, архитектурный ансамбль.",
+        "placeDescription": "Надо обязательно здесь побывать. Есть, на что посмотреть. Впечатляет своим размахом. Замок был возведен в XIV веке императором Карлом IV. Все проникнуто стариной. Внутри проводят экскурсии, очень интересно.",
+        "placeAddress": "28 км от Праги в юго-западном направлении",
+        "placePhone": "+420 311 681 617",
+        "site": "https://www.hrad-karlstejn.cz/ru",
+        "placeImage": "karlstejn.jpg",
+        "placeIcon": "karlstejn_icon.jpg"
     }
 ]
