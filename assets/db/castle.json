@@ -7,8 +7,8 @@
         "placeAddress": "39 км к северо-западу от Брно",
         "placePhone": "+420 566 566 101",
         "site": "",
-        "placeImage": "./pernstejn.jpg",
-        "placeIcon": "./pernstejn_icon.jpg"
+        "placeImage": "pernstejn.jpg",
+        "placeIcon": "pernstejn_icon.jpg"
     },
     {
         "id": "2",
@@ -18,7 +18,7 @@
         "placeAddress": "28 км от Праги в юго-западном направлении",
         "placePhone": "+420 311 681 617",
         "site": "https://www.hrad-karlstejn.cz/ru",
-        "placeImage": "./karlstejn.jpg",
-        "placeIcon": "./karlstejn_icon.jpg"
+        "placeImage": "karlstejn.jpg",
+        "placeIcon": "karlstejn_icon.jpg"
     }
 ]
