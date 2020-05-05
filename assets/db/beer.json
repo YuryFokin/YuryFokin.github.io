@@ -14,7 +14,7 @@
         "site": "https://www.upravdu.com/",
         "placeImage": [
             "u_pravdu.jpg","u_jaru.jpg","koala.jpg","mlejnice.jpg"
-        ]
+        ],
         "placeIcon": "u_pravdu_icon.jpg"
     },
     {
@@ -38,7 +38,7 @@
         "site": "http://www.tlustakoala.cz/",
         "placeImage": [
             "u_pravdu.jpg","u_jaru.jpg","koala.jpg","mlejnice.jpg"
-        ]
+        ],
         "placeIcon": "koala_icon.jpg"
     },
     {
