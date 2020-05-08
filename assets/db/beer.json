@@ -13,10 +13,10 @@
         "placePhone": "+420 222 233 915",
         "site": "https://www.upravdu.com/",
         "placeImageSmall": [
-            "u_pravdu_01_small.jpg","u_jaru.jpg","koala.jpg","mlejnice.jpg"
+            "u_pravdu_02_small.jpg","u_pravdu_01_small.jpg","u_pravdu_03_small.jpg"
         ],
         "placeImageLarge": [
-            "u_pravdu_01_large.jpg","u_jaru.jpg","koala.jpg","mlejnice.jpg"
+            "u_pravdu_02_large.jpg","u_pravdu_01_large.jpg","u_pravdu_03_large.jpg"
         ],
         "placeIcon": "u_pravdu_icon.jpg"
     },
