@@ -12,8 +12,11 @@
         "placeAddress": "Žitná 1701/15, Praha 1",
         "placePhone": "+420 222 233 915",
         "site": "https://www.upravdu.com/",
-        "placeImage": [
-            "u_pravdu.jpg","u_jaru.jpg","koala.jpg","mlejnice.jpg"
+        "placeImageSmall": [
+            "u_pravdu_01_small.jpg","u_jaru.jpg","koala.jpg","mlejnice.jpg"
+        ],
+        "placeImageLarge": [
+            "u_pravdu_01_large.jpg","u_jaru.jpg","koala.jpg","mlejnice.jpg"
         ],
         "placeIcon": "u_pravdu_icon.jpg"
     },
@@ -25,7 +28,8 @@
         "placeAddress": "Jeronýmova 577/2, Praha 3",
         "placePhone": "+420 222 521 109",
         "site": "http://www.pivniceujary.cz/",
-        "placeImage": ["u_jaru.jpg"],
+        "placeImageSmall": ["u_jaru.jpg"],
+        "placeImageLarge": ["u_jaru.jpg"],
         "placeIcon": "u_jaru_icon.jpg"
     },
     {
@@ -36,9 +40,8 @@
         "placeAddress": "Senovážná 8, Praha 1",
         "placePhone": "+420 222 245 401",
         "site": "http://www.tlustakoala.cz/",
-        "placeImage": [
-            "u_pravdu.jpg","u_jaru.jpg","koala.jpg","mlejnice.jpg"
-        ],
+        "placeImageSmall": ["koala.jpg"],
+        "placeImageLarge": ["koala.jpg"],
         "placeIcon": "koala_icon.jpg"
     },
     {
@@ -49,7 +52,8 @@
         "placeAddress": "Kožná 14, Praha 1, либо второй ресторан - Žatecká 17, Praha 1",
         "placePhone": "+420 224 228 635",
         "site": "http://www.restaurace-mlejnice.cz/",
-        "placeImage": ["mlejnice.jpg"],
+        "placeImageSmall": ["mlejnice.jpg"],
+        "placeImageLarge": ["mlejnice.jpg"],
         "placeIcon": "mlejnice_icon.jpg"
     }
 ]
