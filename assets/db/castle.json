@@ -9,7 +9,8 @@
         "site": "",
         "placeImageSmall": ["pernstejn.jpg"],
         "placeImageLarge": ["pernstejn.jpg"],
-        "placeIcon": "pernstejn_icon.jpg"
+        "placeIcon": "pernstejn_icon.jpg",
+        "position": {"latitude": "50.07752470", "longitude": "14.42347410"}
     },
     {
         "id": "2",
@@ -21,6 +22,7 @@
         "site": "https://www.hrad-karlstejn.cz/ru",
         "placeImageSmall": ["karlstejn.jpg"],
         "placeImageLarge": ["karlstejn.jpg"],
-        "placeIcon": "karlstejn_icon.jpg"
+        "placeIcon": "karlstejn_icon.jpg",
+        "position": {"latitude": "50.07752470", "longitude": "14.42347410"}
     }
 ]

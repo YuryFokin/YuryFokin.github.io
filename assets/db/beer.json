@@ -18,7 +18,8 @@
         "placeImageLarge": [
             "u_pravdu_02_large.jpg","u_pravdu_01_large.jpg","u_pravdu_03_large.jpg"
         ],
-        "placeIcon": "u_pravdu_label.jpg"
+        "placeIcon": "u_pravdu_label.jpg",
+        "position": {"latitude": "50.07752470", "longitude": "14.42347410"}
     },
     {
         "id": "2",
@@ -30,7 +31,8 @@
         "site": "http://www.pivniceujary.cz/",
         "placeImageSmall": ["u_jaru.jpg"],
         "placeImageLarge": ["u_jaru.jpg"],
-        "placeIcon": "u_jaru_icon.jpg"
+        "placeIcon": "u_jaru_icon.jpg",
+        "position": {"latitude": "50.07752470", "longitude": "14.42347410"}
     },
     {
         "id": "3",
@@ -42,7 +44,8 @@
         "site": "http://www.tlustakoala.cz/",
         "placeImageSmall": ["koala.jpg"],
         "placeImageLarge": ["koala.jpg"],
-        "placeIcon": "koala_icon.jpg"
+        "placeIcon": "koala_icon.jpg",
+        "position": {"latitude": "50.07752470", "longitude": "14.42347410"}
     },
     {
         "id": "4",
@@ -54,6 +57,7 @@
         "site": "http://www.restaurace-mlejnice.cz/",
         "placeImageSmall": ["mlejnice.jpg"],
         "placeImageLarge": ["mlejnice.jpg"],
-        "placeIcon": "mlejnice_icon.jpg"
+        "placeIcon": "mlejnice_icon.jpg",
+        "position": {"latitude": "50.07752470", "longitude": "14.42347410"}
     }
 ]
