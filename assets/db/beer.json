@@ -36,7 +36,7 @@
         "site": "http://www.pivniceujary.cz/",
         "placeImageSmall": ["u_jary_01_large.jpg","u_jary_02_large.jpg","u_jary_05_large.jpg","u_jary_03_large.jpg","u_jary_04_large.jpg"],
         "placeImageLarge": ["u_jary_01_small.jpg","u_jary_02_small.jpg","u_jary_05_small.jpg","u_jary_03_small.jpg","u_jary_04_small.jpg"],
-        "placeIcon": "u_jaru_label.jpg",
+        "placeIcon": "u_jary_label.jpg",
         "position": {"latitude": "50.08608364", "longitude": "14.44827761"}
     },
     {
