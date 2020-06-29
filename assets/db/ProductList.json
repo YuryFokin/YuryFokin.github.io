@@ -2,29 +2,281 @@
     {
         "id": "1",
         "category": "1",
-        "name": "Телевизор #1",
-        "price": "100",
-        "property": "Значение свойства #1"
+        "name": "Samsung THE SERO QE43LS05TAUXRU",
+        "price": "109990",
+        "property": "Диагональ 43"
     },
     {
         "id": "2",
         "category": "1",
-        "name": "Телевизор #2",
-        "price": "150",
-        "property": "Значение свойства #2"
+        "name": "Samsung THE FRAME QE32LS03TBKXRU",
+        "price": "44990",
+        "property": "Диагональ 32"
     },
     {
         "id": "3",
-        "category": "2",
-        "name": "Холодильник #1",
-        "price": "90",
-        "property": "Значение свойства #3"
+        "category": "1",
+        "name": "Samsung QE55Q70TAUXRU",
+        "price": "89990",
+        "property": "Диагональ 55"
     },
     {
         "id": "4",
+        "category": "1",
+        "name": "Samsung QE65Q950TSUXRU",
+        "price": "499990",
+        "property": "Диагональ 65"
+    },
+    {
+        "id": "5",
+        "category": "1",
+        "name": "LG 49SM8500PLA",
+        "price": "54990",
+        "property": "Диагональ 49"
+    },
+    {
+        "id": "6",
+        "category": "1",
+        "name": "LG 32LM6350PLA",
+        "price": "24990",
+        "property": "Диагональ 32"
+    },
+    {
+        "id": "7",
+        "category": "1",
+        "name": "Xiaomi Mi TV 4S L55M5-5ARU",
+        "price": "34030",
+        "property": "Диагональ 55"
+    },
+    {
+        "id": "8",
+        "category": "1",
+        "name": "Sony KD-85XH8096BR2",
+        "price": "299990",
+        "property": "Диагональ 85"
+    },
+    {
+        "id": "9",
+        "category": "1",
+        "name": "LG 75SM8610PLA",
+        "price": "129990",
+        "property": "Диагональ 75"
+    },
+    {
+        "id": "10",
+        "category": "1",
+        "name": "Thomson T43FSL6010",
+        "price": "24990",
+        "property": "Диагональ 43"
+    },
+    {
+        "id": "11",
         "category": "2",
-        "name": "Холодильник #2",
-        "price": "900",
-        "property": "Значение свойства #4"
+        "name": "LG GC-Q22FTBKL",
+        "price": "119990",
+        "property": "Объем 315л"
+    },
+    {
+        "id": "12",
+        "category": "2",
+        "name": "Liebherr CNef 4005",
+        "price": "56990",
+        "property": "Объем 269л"
+    },
+    {
+        "id": "13",
+        "category": "2",
+        "name": "Samsung RB 33J3400WW",
+        "price": "36990",
+        "property": "Объем 230л"
+    },
+    {
+        "id": "14",
+        "category": "2",
+        "name": "LG GA-B509CMQZ DoorCooling+",
+        "price": "51990",
+        "property": "Объем 277л"
+    },
+    {
+        "id": "15",
+        "category": "2",
+        "name": "Bosch KGV39XK21R",
+        "price": "33990",
+        "property": "Объем 257л"
+    },
+    {
+        "id": "16",
+        "category": "2",
+        "name": "Indesit DF 5180 W",
+        "price": "29890",
+        "property": "Объем 227л"
+    },
+    {
+        "id": "17",
+        "category": "2",
+        "name": "Mitsubishi MR-FR62K-BRW-R",
+        "price": "72990",
+        "property": "Объем 357л"
+    },
+    {
+        "id": "18",
+        "category": "2",
+        "name": "Samsung RB37K63411L",
+        "price": "81990",
+        "property": "Объем 269л"
+    },
+    {
+        "id": "19",
+        "category": "2",
+        "name": "LG GA-B459MMDZ",
+        "price": "49990",
+        "property": "Объем 234л"
+    },
+    {
+        "id": "20",
+        "category": "2",
+        "name": "Midea MRC519WFNX",
+        "price": "99990",
+        "property": "Объем 438"
+    },
+    {
+        "id": "21",
+        "category": "3",
+        "name": "Apple iPhone 11 64GB",
+        "price": "59890",
+        "property": "Диагональ 6.1"
+    },
+    {
+        "id": "22",
+        "category": "3",
+        "name": "Apple iPhone SE 64GB",
+        "price": "39790",
+        "property": "Диагональ 4.7"
+    },
+    {
+        "id": "23",
+        "category": "3",
+        "name": "vivo V17 Облачная лазурь",
+        "price": "22990",
+        "property": "Диагональ 6.38"
+    },
+    {
+        "id": "24",
+        "category": "3",
+        "name": "Xiaomi Mi Note 10",
+        "price": "39980",
+        "property": "Диагональ 6.47"
+    },
+    {
+        "id": "25",
+        "category": "3",
+        "name": "Xiaomi Redmi Note 8 Pro 128GB",
+        "price": "20990",
+        "property": "Диагональ 6.53"
+    },
+    {
+        "id": "26",
+        "category": "3",
+        "name": "Samsung Galaxy A51",
+        "price": "20190",
+        "property": "Диагональ 6.5"
+    },
+    {
+        "id": "27",
+        "category": "3",
+        "name": "Huawei P40 Pro 256 Гб",
+        "price": "64890",
+        "property": "Диагональ 6.58"
+    },
+    {
+        "id": "28",
+        "category": "3",
+        "name": "Meizu 16XS 64GB",
+        "price": "19990",
+        "property": "Диагональ 6.2"
+    },
+    {
+        "id": "29",
+        "category": "3",
+        "name": "ZTE Blade A5",
+        "price": "6990",
+        "property": "Диагональ 6.08"
+    },
+    {
+        "id": "30",
+        "category": "3",
+        "name": "Huawei P30 Pro",
+        "price": "54990",
+        "property": "Диагональ 6.47"
+    },
+    {
+        "id": "31",
+        "category": "4",
+        "name": "DJI Mavic Mini",
+        "price": "35990",
+        "property": "Время полета 30 мин"
+    },
+    {
+        "id": "32",
+        "category": "4",
+        "name": "Pilotage Phantom 2",
+        "price": "4490",
+        "property": "Время полета 8 мин"
+    },
+    {
+        "id": "33",
+        "category": "4",
+        "name": "Xiaomi Mi Drone Mini",
+        "price": "5390",
+        "property": "Время полета 10 мин"
+    },
+    {
+        "id": "34",
+        "category": "4",
+        "name": "DJI Mavic Mini Fly",
+        "price": "44990",
+        "property": "Время полета 30 мин"
+    },
+    {
+        "id": "35",
+        "category": "4",
+        "name": "DJI Mavic 2 Zoom",
+        "price": "111990",
+        "property": "Время полета 31 мин"
+    },
+    {
+        "id": "36",
+        "category": "4",
+        "name": "Pilotage Shadow",
+        "price": "2990",
+        "property": "Время полета 28 мин"
+    },
+    {
+        "id": "37",
+        "category": "4",
+        "name": "Airselfie 2 Power",
+        "price": "21990",
+        "property": "Время полета 5 мин"
+    },
+    {
+        "id": "38",
+        "category": "4",
+        "name": "Ryze Tello TLW004",
+        "price": "7890",
+        "property": "Время полета 13 мин"
+    },
+    {
+        "id": "39",
+        "category": "4",
+        "name": "Pilotage Shadow",
+        "price": "3990",
+        "property": "Время полета 28 мин"
+    },
+    {
+        "id": "40",
+        "category": "4",
+        "name": "DJI Mavic 2 Pro",
+        "price": "169990",
+        "property": "Время полета 31 мин"
     }
 ]
