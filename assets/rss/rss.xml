@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
     <!-- Заголовок RSS-ленты, обычно это название сайта -->
-    <title>Digital Atom Media тестовый канал #4</title>
+    <title>Digital Atom Media тест #4</title>
     <!-- Адрес сайта, которому принадлежит RSS-лента -->
     <link>http://www.rosenergoatom.ru</link>
     <!-- Описание RSS-ленты -->
